@@ -54,7 +54,7 @@
     "Samsung >= 5"
   ],
   "devDependencies": {
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^9.7.6",
     "clean-css": "^4.2.1",
     "cross-env": "^7.0.0",
     "eslint": "^6.4.0",
